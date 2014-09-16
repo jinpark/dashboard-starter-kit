@@ -44,3 +44,8 @@ div [class^="col-"] {
   font-size: 12px;
   padding: 8px 10px 5px;
 }
+
+.keen-widget.keen-metric {
+  width: 90% !important;
+  margin: auto;
+}
